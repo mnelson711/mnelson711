@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&background=000000&vCenter=true&random=false&width=465&height=100&lines=Hi!+I'm+Molly;Computer+Science+Graduate;Programmer;Book+Lover)](https://git.io/typing-svg)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mnelson711&theme=iceberg&mode=weekly)](https://git.io/streak-stats)
