@@ -6,7 +6,7 @@
   <summary>Connect</summary>
   <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&background=FFFFFF00&vCenter=true&random=false&width=495&height=100&lines=Molly+would+love+to+connect)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2500&pause=1000&background=FFFFFF00&vCenter=true&random=false&width=495&height=30&lines=Molly+would+love+to+connect)](https://git.io/typing-svg)
  
   <p align="left">
   <a href="https://www.linkedin.com/in/molly-nelson-70a12a22b/" target="blank">Linked In</a>
@@ -25,36 +25,37 @@
 </details>
 </div>
 
-<!-- skills folder -->
-<div align="left">
-<details>
-  <summary>My Skills</summary>
-  <br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&background=FFFFFF00&vCenter=true&random=false&width=495&height=100&lines=Molly's+other+hobbies)](https://git.io/typing-svg)
-
-  <p align="left">Fantasy/Sci-Fi Novels</p>
-  <p align="left">Marvel Movies</p>
-  <p align="left">Hiking/Exploring</p>
-  <p align="left">Running/Exercising</p>
-
-
-  </details>
-</div>
-
 <!-- hobbies folder -->
 <div align="left">
 <details>
   <summary>My Hobbies</summary>
   <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&background=FFFFFF00&vCenter=true&random=false&width=495&height=100&lines=Molly's+other+hobbies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2500&pause=1000&background=FFFFFF00&vCenter=true&random=false&width=495&height=30&lines=Molly's+other+hobbies)](https://git.io/typing-svg)
 
-  <p align="left">
-    Fantasy/Sci-Fi Novels
-    Marvel Movies
-    Hiking/Exploring
-  </p>
+  <p align="left"> - Fantasy/Sci-Fi Novels</p>
+  <p align="left"> - Marvel Movies</p>
+  <p align="left"> - Hiking/Exploring</p>
+  <p align="left"> - Running/Exercising</p>
+
+  </details>
+</div>
+
+<!-- skills folder -->
+<div align="left">
+<details>
+  <summary>My Skills</summary>
+  <br/>
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2500&pause=1000&background=FFFFFF00&vCenter=true&random=false&width=495&height=30&lines=Molly's+technical+skills)](https://git.io/typing-svg)
+  <p align="left"> - Python</p>
+  <p align="left"> - Javascript</p>
+  <p align="left"> - C++</p>
+  <p align="left"> - Java</p>
+  <p align="left"> - SQL</p>
+  <p align="left"> - HTML</p>
+  <p align="left"> - CSS</p>
+  <p align="left"> - R</p>
 
   </details>
 </div>
